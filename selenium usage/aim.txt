@@ -1,0 +1,3 @@
+enter the job details to the search button using the job description and location
+then click the button to perform the search
+take the name and url of the top 2-3 searches and display in "name:link" format
